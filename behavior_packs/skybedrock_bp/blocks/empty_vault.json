@@ -1,0 +1,23 @@
+{
+	"format_version": "1.20.60",
+	"minecraft:block": {
+		"description": {
+			"identifier": "yasser444:empty_vault",
+			"menu_category": {
+				"category": "items"
+			}
+		},
+		"components": {
+			"minecraft:display_name": "§bEmpty Vault",
+			"minecraft:custom_components": ["yasser444:vault"],
+			"minecraft:destructible_by_mining": { "seconds_to_destroy": 1 },
+			"minecraft:destructible_by_explosion": false,
+	      	"minecraft:geometry": "minecraft:geometry.full_block",
+			"minecraft:material_instances": {
+				"*": { "texture": "vault_side", "render_method": "alpha_test" },
+				"up": { "texture": "vault_top", "render_method": "alpha_test" },
+				"down": { "texture": "vault_bottom", "render_method": "alpha_test" }
+			}
+		}
+	}
+}

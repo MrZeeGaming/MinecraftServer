@@ -1,0 +1,9 @@
+{
+  "namespace": "crafting",
+
+  "help_button@common.button": {
+    "$default_texture": "textures/ui/buttons/skypedia_default",
+    "$hover_texture": "textures/ui/buttons/skypedia_hover",
+    "$pressed_texture": "textures/ui/buttons/skypedia_pressed"
+  }
+}

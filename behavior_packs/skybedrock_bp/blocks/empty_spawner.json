@@ -1,0 +1,19 @@
+{
+  "format_version": "1.20.60",
+  "minecraft:block": {
+    "description": {
+      "identifier": "yasser444:empty_spawner",
+	  "menu_category": {
+		  "category": "items"
+	  }
+    },
+    "components": {
+      "minecraft:display_name": "§bEmpty Spawner",
+      "minecraft:destructible_by_mining": { "seconds_to_destroy": 1 },
+      "minecraft:destructible_by_explosion": false,
+      "minecraft:custom_components": ["yasser444:monster_spawner", "yasser444:trial_spawner"],
+      "minecraft:geometry": "minecraft:geometry.full_block",
+      "minecraft:material_instances": {"*": { "texture": "empty_spawner", "render_method": "alpha_test" }}
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:item": {
+    "description": {
+      "identifier": "yasser444:treasure_map",
+	  "menu_category": {
+		  "category": "Equipment"
+	  }
+    },
+    "components": {
+		"minecraft:icon": {
+			"texture": "yasser444:treasure_map"
+		},
+		"minecraft:interact_button": "Open",
+		"minecraft:display_name": {
+			"value": "Sky Treasure Map"
+		}
+	}
+  }
+}

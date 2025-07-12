@@ -1,0 +1,42 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "§cThis should be below the other packs, Do Not Disable.\n§r§6This pack is the backbone of Skybedrock, it contains custom recipes, loot tables, items, blocks, spawn rules, mob behaviors, world generation, trade tables, and scripts.",
+    "name": "Skybedrock BP",
+    "uuid": "d04d20b5-3dc8-4560-8f81-cc51cd5c28e8",
+    "version": [ 1, 21, 12],
+    "min_engine_version": [ 1, 21, 90]
+  },
+  "metadata": {
+    "product_type": "addon"
+  },
+  "capabilities": ["script_eval"],
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "047cbae1-5f94-4bc7-9c07-57c67e2aebb3",
+      "description": "SkyBedrock BP",
+      "version": [1, 21, 0]
+    },
+    {
+      "type": "script",
+      "uuid": "7e9c425a-d47f-4e8e-b06c-1092a8315c8e",
+      "version": [1, 0, 0],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+		{
+			"module_name":"@minecraft/server",
+			"version":"1.15.0"
+		},
+		{
+			"module_name":"@minecraft/server-ui",
+			"version":"1.3.0"
+		},
+    {
+        "uuid": "3c547789-f28e-41e2-8a9e-0b0333ff0967",
+        "version": [1, 21, 12]
+    }
+  ]
+}

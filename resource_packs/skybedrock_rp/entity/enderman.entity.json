@@ -1,0 +1,13 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:enderman",
+      "min_engine_version": "1.8.0",
+      "textures": {
+        "default": "textures/entity/enderman/enderman",
+        "pale_eyes": "textures/entity/enderman/pale_eyes"
+      }
+    }
+  }
+}

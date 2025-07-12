@@ -1,0 +1,7 @@
+Dedicated_Server.txt
+[2025-07-13 07:15:19:293 INFO] Running AutoCompaction...
+[2025-07-13 07:17:59:123 INFO] Player connected: MrZeeGaming, xuid: 2535408403043008
+[2025-07-13 07:18:04:483 INFO] Player Spawned: MrZeeGaming xuid: 2535408403043008, pfid: 93726e839b6ee69
+[2025-07-13 07:18:44:258 INFO] Player disconnected: MrZeeGaming, xuid: 2535408403043008, pfid: 93726e839b6ee69
+[2025-07-13 07:19:07:689 INFO] Server stop requested.
+[2025-07-13 07:19:07:719 INFO] Stopping server...

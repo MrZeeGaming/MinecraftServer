@@ -1,0 +1,19 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:item": {
+    "description": {
+      "identifier": "yasser444:spawner_core",
+	    "menu_category": {
+		     "category": "Items"
+	     }
+    },
+    "components": {
+  		"minecraft:custom_components": ["yasser444:spawner_core"],
+  		"minecraft:rarity": "rare",
+  		"minecraft:icon": "yasser444:spawner_core",
+  		"minecraft:display_name": {
+  			"value": "Spawner Core"
+  		}
+	  }
+  }
+}
