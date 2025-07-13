@@ -1,5 +1,5 @@
 
-Network Stats for the last 590 seconds:
+Network Stats for the last 12 seconds:
 
 Total Sent Spatial Packets: 0
 Total Requested to Send Spatial Packets: 0
@@ -7,68 +7,7 @@ Total Sent Actor Motion Hints Packets: 0
 Percentage of Usual Bandwidth Used: -nan%
 
 
-Total Sent: 524, 0B (1.05MB)
-52  CraftingDataPacket                380.53KB, Num 1, Avg 380.53KB
-76  AvailableCommandsPacket           297.97KB, Num 1, Avg 297.97KB
-63  PlayerListPacket                  139.25KB, Num 2, Avg 69.62KB
-162 ItemRegistryPacket                86.61KB, Num 1, Avg 86.61KB
-174 SubChunkPacket                    62.07KB, Num 60, Avg 1.03KB
-145 CreativeContentPacket             49.36KB, Num 1, Avg 49.36KB
-136 ClientCacheMissResponsePacket     30.71KB, Num 9, Avg 3.41KB
-119 AvailableActorIdentifiersPacket   8.25KB, Num 1, Avg 8.25KB
-122 BiomeDefinitionListPacket         6.89KB, Num 1, Avg 6.89KB
-29  UpdateAttributesPacket            2.90KB, Num 4, Avg 0.72KB
-58  LevelChunkPacket                  2.44KB, Num 118, Avg 21B
-121 NetworkChunkPublisherUpdatePacket 2.26KB, Num 232, Avg 9B
-302 TrimDataPacket                    1.24KB, Num 1, Avg 1.24KB
-165 SyncActorPropertyPacket           1.07KB, Num 9, Avg 121B
-320 CameraAimAssistPresetsPacket      1.05KB, Num 1, Avg 1.05KB
-11  StartGamePacket                   0.98KB, Num 1, Avg 0.98KB
-72  GameRulesChangedPacket            0.70KB, Num 1, Avg 0.70KB
-39  SetActorDataPacket                0.65KB, Num 22, Avg 30B
-49  InventoryContentPacket            0.51KB, Num 11, Avg 47B
-3   ServerToClientHandshakePacket     428B, Num 1, Avg 428B
-198 CameraPresetsPacket               327B, Num 1, Avg 327B
-123 LevelSoundEventPacket             94B, Num 3, Avg 31B
-199 UnlockedRecipesPacket             74B, Num 1, Avg 74B
-187 UpdateAbilitiesPacket             70B, Num 2, Avg 35B
-124 LevelEventGenericPacket           64B, Num 1, Avg 64B
-45  RespawnPacket                     45B, Num 3, Avg 15B
-43  SetSpawnPositionPacket            33B, Num 1, Avg 33B
-314 CurrentStructureFeaturePacket     33B, Num 11, Avg 3B
-7   ResourcePackStackPacket           32B, Num 1, Avg 32B
-6   ResourcePacksInfoPacket           29B, Num 1, Avg 29B
-10  SetTimePacket                     20B, Num 5, Avg 4B
-316 CameraAimAssistPacket             17B, Num 1, Avg 17B
-26  BlockEventPacket                  12B, Num 2, Avg 6B
-143 NetworkSettingsPacket             12B, Num 1, Avg 12B
-2   PlayStatusPacket                  10B, Num 2, Avg 5B
-48  PlayerHotbarPacket                8B, Num 2, Avg 4B
-188 UpdateAdventureSettingsPacket     7B, Num 1, Avg 7B
-46  ContainerOpenPacket               7B, Num 1, Avg 7B
-47  ContainerClosePacket              4B, Num 1, Avg 4B
-160 PlayerFogPacket                   3B, Num 1, Avg 3B
-59  SetCommandsEnabledPacket          2B, Num 1, Avg 2B
-60  SetDifficultyPacket               2B, Num 1, Avg 2B
-70  ChunkRadiusUpdatedPacket          2B, Num 1, Avg 2B
-42  SetHealthPacket                   2B, Num 1, Avg 2B
+Total Sent: 0, 0B (0B)
 
-Total Received: 754, 0B (198.03KB)
-1   LoginPacket                       127.73KB, Num 1, Avg 127.73KB
-144 PlayerAuthInputPacket             61.34KB, Num 668, Avg 94B
-175 SubChunkRequestPacket             6.87KB, Num 60, Avg 117B
-135 ClientCacheBlobStatusPacket       1.97KB, Num 9, Avg 224B
-30  InventoryTransactionPacket        42B, Num 1, Avg 42B
-36  PlayerActionPacket                20B, Num 2, Avg 10B
-33  InteractPacket                    15B, Num 1, Avg 15B
-8   ResourcePackClientResponsePacket  8B, Num 2, Avg 4B
-312 ServerboundLoadingScreenPacket    8B, Num 2, Avg 4B
-193 RequestNetworkSettingsPacket      6B, Num 1, Avg 6B
-321 ClientCameraAimAssistPacket       5B, Num 1, Avg 5B
-47  ContainerClosePacket              4B, Num 1, Avg 4B
-44  AnimatePacket                     3B, Num 1, Avg 3B
-129 ClientCacheStatusPacket           3B, Num 1, Avg 3B
-69  RequestChunkRadiusPacket          3B, Num 1, Avg 3B
-113 SetLocalPlayerAsInitializedPacket 2B, Num 1, Avg 2B
-4   ClientToServerHandshakePacket     1B, Num 1, Avg 1B
+Total Received: 0, 0B (0B)
 
