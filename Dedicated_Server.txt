@@ -1,4 +1,0 @@
-Dedicated_Server.txt
-[2025-07-15 08:43:11:066 INFO] Player disconnected: MrZeeGaming, xuid: 2535408403043008, pfid: 93726e839b6ee69
-[2025-07-15 08:43:17:506 INFO] Server stop requested.
-[2025-07-15 08:43:17:554 INFO] Stopping server...
