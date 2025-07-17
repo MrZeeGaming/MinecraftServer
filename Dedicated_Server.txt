@@ -1,4 +1,7 @@
 Dedicated_Server.txt
-[2025-07-16 05:01:15:365 INFO] Player disconnected: MrZeeGaming, xuid: 2535408403043008, pfid: 93726e839b6ee69
-[2025-07-16 05:01:28:852 INFO] Server stop requested.
-[2025-07-16 05:01:28:897 INFO] Stopping server...
+[2025-07-17 09:09:22:985 INFO] Player Spawned: MsEriGaming xuid: 2535442544047655, pfid: d83b26d26456d796
+[2025-07-17 09:12:07:795 INFO] Player disconnected: MsEriGaming, xuid: 2535442544047655, pfid: d83b26d26456d796
+[2025-07-17 09:12:07:825 INFO] Player disconnected: MrZeeGaming, xuid: 2535408403043008, pfid: 93726e839b6ee69
+[2025-07-17 09:12:23:915 INFO] Running AutoCompaction...
+[2025-07-17 09:12:29:895 INFO] Server stop requested.
+[2025-07-17 09:12:29:941 INFO] Stopping server...
