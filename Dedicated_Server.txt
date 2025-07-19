@@ -1,18 +1,14 @@
 Dedicated_Server.txt
-[2025-07-18 01:26:08:514 INFO] Player connected: MrZeeGaming, xuid: 2535408403043008
-[2025-07-18 01:26:19:499 INFO] Player Spawned: MrZeeGaming xuid: 2535408403043008, pfid: 93726e839b6ee69
-[2025-07-18 01:29:01:889 INFO] Player disconnected: MrZeeGaming, xuid: 2535408403043008, pfid: 93726e839b6ee69
-[2025-07-18 01:29:01:900 ERROR] [Scripting] Error: Failed to call function 'getDynamicProperty'    at <anonymous> (world/actionbar.js:60)
+[2025-07-19 02:12:17:791 INFO] Running AutoCompaction...
+[2025-07-19 02:13:51:176 INFO] Player disconnected: MrZeeGaming, xuid: 2535408403043008, pfid: 93726e839b6ee69
+[2025-07-19 02:13:51:220 ERROR] [Scripting] Unhandled promise rejection: Error: Failed to get property 'onScreenDisplay'    at <anonymous> (world/actionbar.js:59)
 
 
-[2025-07-18 01:29:01:952 ERROR] [Scripting] Unhandled promise rejection: Error: Failed to get property 'onScreenDisplay'    at <anonymous> (world/actionbar.js:59)
+[2025-07-19 02:13:51:280 ERROR] [Scripting] Error: Failed to call function 'getDynamicProperty'    at <anonymous> (world/actionbar.js:60)
 
 
-[2025-07-18 01:29:01:999 ERROR] [Scripting] Error: Failed to call function 'getDynamicProperty'    at <anonymous> (world/actionbar.js:60)
+[2025-07-19 02:13:51:368 ERROR] [Scripting] Error: Failed to call function 'getDynamicProperty'    at <anonymous> (world/actionbar.js:60)
 
 
-[2025-07-18 01:29:02:099 ERROR] [Scripting] Error: Failed to call function 'getDynamicProperty'    at <anonymous> (world/actionbar.js:60)
-
-
-[2025-07-18 01:29:13:579 INFO] Server stop requested.
-[2025-07-18 01:29:13:626 INFO] Stopping server...
+[2025-07-19 02:14:04:551 INFO] Server stop requested.
+[2025-07-19 02:14:04:599 INFO] Stopping server...
