@@ -1,3 +1,17 @@
 Dedicated_Server.txt
-[2025-07-19 17:29:33:167 INFO] Server stop requested.
-[2025-07-19 17:29:33:214 INFO] Stopping server...
+[2025-07-20 05:58:04:339 INFO] Player disconnected: MrZeeGaming, xuid: 2535408403043008, pfid: 93726e839b6ee69
+[2025-07-20 05:58:04:389 ERROR] [Scripting] Error: Failed to call function 'getDynamicProperty'    at <anonymous> (world/actionbar.js:60)
+
+
+[2025-07-20 05:58:04:435 ERROR] [Scripting] Unhandled promise rejection: Error: Failed to get property 'onScreenDisplay'    at <anonymous> (world/actionbar.js:59)
+
+
+[2025-07-20 05:58:04:485 ERROR] [Scripting] Error: Failed to call function 'getDynamicProperty'    at <anonymous> (world/actionbar.js:60)
+
+
+[2025-07-20 05:58:04:585 ERROR] [Scripting] Error: Failed to call function 'getDynamicProperty'    at <anonymous> (world/actionbar.js:60)
+
+
+[2025-07-20 05:58:06:769 INFO] Player disconnected: MsEriGaming, xuid: 2535442544047655, pfid: d83b26d26456d796
+[2025-07-20 06:00:24:934 INFO] Server stop requested.
+[2025-07-20 06:00:24:984 INFO] Stopping server...
